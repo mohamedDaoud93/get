@@ -4,9 +4,7 @@ public class HelloITI {
 		
         System.out.println("HelloITI");
 	}
-	public void printss {
-		
-	}
+	
 	
 	
 }
