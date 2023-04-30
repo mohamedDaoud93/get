@@ -1,4 +1,4 @@
-public class HelloWorld {
+public class MyHelloWorld {
 	
 	public void printHelloWorld {
 		
