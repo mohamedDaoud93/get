@@ -1,2 +1,6 @@
 addassaddsadasdsadsadasdasdasdas
-uiyiutuyrytryt
+<<<<<<< task1
+yiuyiutyurtye
+=======
+
+>>>>>>> main
