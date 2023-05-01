@@ -1,2 +1,6 @@
 addassaddsadasdsadsadasdasdasdas
+<<<<<<< task1
 yiuyiutyurtye
+=======
+
+>>>>>>> main
